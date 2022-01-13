@@ -1,8 +1,8 @@
 # Reproducible issues with Devbook
 
-This is an example of how Devbook can be use to reproduce issues.
+This is an example of how Devbook can be used to reproduce issues.
 
-**This Devbook has a full-fledged VM attached to it that both the author and a reader can use.**
+**This Devbook has a full-fledged VM attached to it that both the author and the reader can use.**
 
 Issues created with Devbook allow developers to quickly recreate the problem and share it with their collegues. They can start exploring the problem and fixing it right away.
 
@@ -12,13 +12,13 @@ Every piece of code here can edited and executed. You can deploy any container t
 
 ## It has multiplayer!
 
-Devbook support collaborative editing. Open this URL in another window and you'll see each other's cursor.
-
-Each session has it's own VM.
+Devbook support collaborative editing. Open this URL in another window and you'll see each other's cursor. Each session has it's own VM.
 
 ## Issue we are about to reproduce
 
 We will create an issue for the <https://github.com/ueberdosis/tiptap> package using the Next.js template. TipTap is a package that allows you to easily create rich text editors. You are reading this in a TipTap editor too!
+
+---
 
 # Unmounting TipTap editor throws error - fails to execute `removeChild` 
 
